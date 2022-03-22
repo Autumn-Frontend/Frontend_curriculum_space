@@ -37,6 +37,12 @@ https://docs.google.com/spreadsheets/d/1U9LFo-4XtFK7y10jNKO7snRLKP6k1mmWKzxaAkMW
 // cloneする
 git clone リポジトリURL
 
+#### パスワードを要求された場合
+パスワードを要求された場合は、Githubのパスワードではなくアクセストークンを入力するようにしてください。
+<br>
+手順は以下のサイトを参考にしてください。
+https://docs.github.com/ja/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
+
 // ブランチ切り替え
 git checkout ブランチ名
 ```
