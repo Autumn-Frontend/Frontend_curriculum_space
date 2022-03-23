@@ -15,7 +15,7 @@ function Dog(name, age) {
 	this.age = age;
 }
 
-var taro = new Person("太郎", 23); // 太郎という人間
-var hachi = new Dog("ハチ", 5); // ハチというイヌ
+let taro = new Person("太郎", 23); // 太郎という人間
+let hachi = new Dog("ハチ", 5); // ハチというイヌ
 
 taro.self_introduction.bind(hachi)();
