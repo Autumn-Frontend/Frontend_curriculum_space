@@ -2,7 +2,7 @@
 フロントエンドカリキュラムのワークスペースです。
 
 ## ドキュメント（運用マニュアル）
-https://github.com/Kurogoma939/autumn_curriculum_docs
+https://github.com/autumn-backend/autumn_curriculum_docs
 
 ### !! 命名規則もあるので必ず上記リポジトリのREADMEは一読すること !!
 <br /><br />
