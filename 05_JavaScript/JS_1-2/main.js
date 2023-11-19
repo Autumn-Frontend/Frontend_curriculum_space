@@ -1,5 +1,5 @@
 // 【JS_1-2】 以下の変数を条件の通り編集し、最後に出力してください。
-let number = 100;
+var number = 100;
 let userName = "Takashi";
 // （条件）
 // var で定義した変数は変数の再定義を行う
