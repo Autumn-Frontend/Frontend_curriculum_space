@@ -2,20 +2,20 @@
 // ※arrow にすることにより省略できる部分は極力省略してください。
 
 function janken() {
-	let number = rand(1, 3);
-	let hand = "";
-	switch (rand) {
-		case 1:
-			hand = "グー";
-			break;
-		case 2:
-			hand = "チョキ";
-			break;
-		case 3:
-			hand = "パー";
-			break;
-	}
+  let number;
+  let hand = "";
+  switch (number) {
+    case 1:
+      hand = "グー";
+      break;
+    case 2:
+      hand = "チョキ";
+      break;
+    case 3:
+      hand = "パー";
+      break;
+  }
 
-	let message = "あなたは" + hand + "を出しました。";
-	return message;
+  let message = "あなたは" + hand + "を出しました。";
+  return message;
 }
