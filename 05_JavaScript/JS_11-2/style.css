@@ -25,3 +25,13 @@ body {
 .card-body {
   padding: 0.25rem 1rem;
 }
+
+.button-container {
+  margin: 1rem;
+  display: flex;
+  justify-content: center;
+}
+
+.btn {
+  font-size: large;
+}
